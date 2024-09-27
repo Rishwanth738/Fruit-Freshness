@@ -106,11 +106,11 @@ result = cnn.predict(test_image)
 The result will provide the probability values for each category, and the predicted class can be extracted using np.argmax(result).
 
 **Results**
-The model achieves an accuracy of X% on the training set and Y% on the validation/test set. Here are the detailed metrics:
+The model achieves an accuracy of 97.19% on the training set and 96.16%% on the validation/test set. Here are the detailed metrics:
 
-Training Accuracy: X%
-Validation Accuracy: Y%
-Test Accuracy: Z%
+Training Accuracy: 97.19%
+Validation Accuracy: 97.14%
+Test Accuracy: 96.16%
 
 **Future Work**
 Some potential improvements for this project include:
