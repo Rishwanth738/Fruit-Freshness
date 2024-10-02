@@ -10,7 +10,8 @@ Fresh Bananas
 Rotten Bananas
 Fresh Oranges
 Rotten Oranges
-Table of Contents
+
+**Table of Contents**
 Project Overview
 Directory Structure
 Installation
