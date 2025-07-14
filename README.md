@@ -53,7 +53,7 @@ The directory structure of this project is organized as follows:
 
 **Clone the Repository**
 bash
-git clone https://github.com/yourusername/fruit-freshness-detection.git
+git clone https://github.com/Rishwanth738/fruit-freshness-detection.git
 cd fruit-freshness-detection
 
 **Install the Required Libraries**
